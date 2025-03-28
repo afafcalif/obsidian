@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./첨부파일",
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "defaultViewMode": "preview",
+  "fileSortOrder": "byModifiedTime",
+  "newFileLocation": "current",
+  "useTab": true,
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheck": false
+}

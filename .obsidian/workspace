@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7acd8155b26c2c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5c6ebf7c481a7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "일상/카드사용/10월.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e58e682520002243",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3cb4e8f618caca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ae6ae604288f11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d489c5a20757f13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "쓰레셔",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "97bc9e2334f857af",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a34ba68844ea6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52f934d27101e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "일상/카드사용/10월.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec5c6ebf7c481a7e",
+  "lastOpenFiles": [
+    "일상/정보들/걍메모.md",
+    "일상/정보들/윈도우10 pro 정품키.md",
+    "엘든링/업적.md",
+    "디아2/정보들/길찾기.md",
+    "마작/족보.md",
+    "FTX매매/22년1월 매매일지.md",
+    "FTX매매/psyoptions IEO.md",
+    "FTX매매/정리들.md",
+    "FTX매매/첨부파일/Pasted image 20220115043024.png",
+    "디아2/끄적끄적/득템짤/22년1월.md"
+  ]
+}

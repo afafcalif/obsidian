@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "7acd8155b26c2c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad696c4ac616c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5af53626bf414bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "메이플/메이플.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "메이플"
+            }
+          },
+          {
+            "id": "bc1b658778cb4cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POE2/POE2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "POE2"
+            }
+          },
+          {
+            "id": "3429607a5c768060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일상/전담 코일교체.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "전담 코일교체"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e58e682520002243",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3cb4e8f618caca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ae6ae604288f11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "1d489c5a20757f13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "쓰레셔",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c776c7e102ee66c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "97bc9e2334f857af",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a34ba68844ea6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52f934d27101e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "일상/리니지.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "리니지의 백링크"
+            }
+          },
+          {
+            "id": "e47e77afeca06bed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3429607a5c768060",
+  "lastOpenFiles": [
+    "POE2/POE2.md",
+    "POE2/첨부파일/Pasted image 20250130182346.png",
+    "POE2/첨부파일/Pasted image 20250130182332.png",
+    "POE2/첨부파일/Pasted image 20250130182314.png",
+    "POE2/첨부파일/Pasted image 20250126133325.png",
+    "POE2/첨부파일/Pasted image 20250126130803.png",
+    "POE2/첨부파일/Pasted image 20250126124817.png",
+    "POE2/첨부파일/Pasted image 20250126122338.png",
+    "POE2/첨부파일/Pasted image 20250126000433.png",
+    "POE2/첨부파일/Pasted image 20250125233706.png",
+    "POE2/첨부파일/Pasted image 20250125210649.png",
+    "일상/전담 코일교체.md",
+    "POE2/세케마시련 은혜고난 정리.md",
+    "POE2/마나스태킹 전기불꽃 번개도관 노드.md",
+    "일상/리니지.md",
+    "POE2/첨부파일",
+    "일상/책.md",
+    "POE2",
+    "FTX매매/psyoptions IEO.md",
+    "일상/토토.md",
+    "일상/정보들/윈도우10 pro 정품키.md",
+    "일상/정보들/걍메모.md",
+    "일상/AFK 새로운 여정 랭킹정리.md",
+    "일상/흑왕도 제작 재료.md",
+    "일상/긱사 준비물.md",
+    "무제 파일.canvas",
+    "엘든링/업적.md",
+    "메이플/메이플.md",
+    "디아2/참,악세,재료,룬/룬 asus, mochi, rune, 부계ruuny.md",
+    "디아2/참,악세,재료,룬/악세,주얼 LTNS.md",
+    "디아2/참,악세,재료,룬/재료 내계정 KIKY.md",
+    "디아2/참,악세,재료,룬/거봉 ggrape,.md",
+    "디아2/참,악세,재료,룬/참 rog.md",
+    "디아2/참,악세,재료,룬/보석 razer, missionary, mochi, kirakira, momoca.md",
+    "메이플/계정판매.md",
+    "FTX매매/정리들.md",
+    "메이플/메랜 메소판매.md",
+    "메이플",
+    "일상/바화산기 필답.md",
+    "일상/첨부파일",
+    "일상/학점은행제"
+  ]
+}

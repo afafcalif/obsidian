@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "6419b5f042a1cb64",
+    "type": "split",
+    "children": [
+      {
+        "id": "627388d33a0ac5c8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c99e68a11ed805",
+    "type": "split",
+    "children": [
+      {
+        "id": "2717e86d58940bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa0e6853dc85d878",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#정보",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02dc3f528d68be3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335
+  },
+  "right": {
+    "id": "73776c554184f98c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8743bc811441690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014e4653e1d3a149",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "627388d33a0ac5c8",
+  "lastOpenFiles": [
+    "정보들/길찾기.md",
+    "끄적끄적/윈도우10 pro 정품키.md",
+    "장비템들/장비템들 astro, corsair, ozon, solana, FTT.md",
+    "참,악세,재료,룬/룬 asus, rune.md",
+    "참,악세,재료,룬/거봉 ggrape,.md",
+    "참,악세,재료,룬/보석 razer, missionary.md",
+    "끄적끄적/득템짤.md",
+    "참,악세,재료,룬/악세,재료 LTNS.md",
+    "참,악세,재료,룬/홈캐릭.md",
+    "참,악세,재료,룬/참 rog.md"
+  ]
+}
